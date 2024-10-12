@@ -79,7 +79,7 @@ struct Order
     {}
 
 
-    Order(string *_Client_Order_ID, string *_Instrument_Name, string *_Side, string *_Quantity, string *_Price) 
+    Order(string *_Client_Order_ID, string *_Instrument_Name, string *_Side, string *_Price, string *_Quantity) 
     {
         /*   Using pointers to receive data that already exists in memory and pass 
         it to the constructor without making unnecessary copies of the data.    */
@@ -548,7 +548,7 @@ int main(void)
 {
 
     /********* PUT THE INPUT FILE NAME BELOW *********/
-    string Input_File_Name = "Example 7.csv";  
+    string Input_File_Name = "Example 8.csv";  
 
     Process_Orders_and_Update_Books(Input_File_Name);
 
