@@ -8,7 +8,7 @@ int Order::Current_Order_ID = 1;
 
 Order::Order() {}
 
-Order::Order(string* _Client_Order_ID, string* _Instrument_Name, string* _Side, string* _Quantity, string* _Price) {
+Order::Order(string* _Client_Order_ID, string* _Instrument_Name, string* _Side, string* _Price, string* _Quantity) {
     Client_Order_ID = *_Client_Order_ID;
     Order_ID = "ord" + to_string(Current_Order_ID++);
     Instrument_Name = *_Instrument_Name;

@@ -7,7 +7,7 @@ const vector<string> Order::instrument_list = {"Rose", "Lavender", "Lotus", "Tul
 
 Order::Order() : status(1), order_priority(1), remaining_quantity(0) {}
 
-Order::Order(const string& client_id, const string& instrument, const string& side, const string& quantity, const string& price) {
+Order::Order(const string& client_id, const string& instrument, const string& side, const string& price, const string& quantity) {
     client_order_id = client_id;
     order_id = GenerateOrderId();
     instrument_name = instrument;

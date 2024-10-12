@@ -1,0 +1,4 @@
+Version 1: Simple core logic code 
+Version 2: Library dividing
+Version 3: Changing the design patterns and optimizations added
+Version 4: Best buy-sell matching and Optimization using threading
