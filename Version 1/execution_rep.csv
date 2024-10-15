@@ -1,25 +1,25 @@
 Order ID,Client Order ID,Instrument,Side,Exec Status,Quantity,Price,Reason,Transaction Time
-ord1,client_001,Rose,1,New,100,50,Accepted,2024.10.13-09.56.56.-553
-ord2,client_002,Lavender,2,New,100,51,Accepted,2024.10.13-09.56.56.-553
-ord3,client_003,Rose,1,New,200,50,Accepted,2024.10.13-09.56.56.-553
-ord4,client_004,Rose,2,PFill,100,50,Accepted,2024.10.13-09.56.56.-553
-ord1,client_001,Rose,1,Fill,100,50,Accepted,2024.10.13-09.56.56.-552
-ord4,client_004,Rose,2,Fill,100,50,Accepted,2024.10.13-09.56.56.-552
-ord3,client_003,Rose,1,PFill,100,50,Accepted,2024.10.13-09.56.56.-552
-ord5,client_005,Rose,2,Fill,100,50,Accepted,2024.10.13-09.56.56.-552
-ord3,client_003,Rose,1,Fill,100,50,Accepted,2024.10.13-09.56.56.-552
-ord6,client_006,Lotus,1,New,500,52,Accepted,2024.10.13-09.56.56.-552
-ord7,client_007,Lily,2,Reject,100,51.5,Invalid Instrument,2024.10.13-09.56.56.-552
-ord8,client_008,Tulip,2,New,300,55,Accepted,2024.10.13-09.56.56.-552
-ord9,client_009,Rose,1,New,250,50,Accepted,2024.10.13-09.56.56.-552
-ord10,client_010,Rose,2,Fill,250,50,Accepted,2024.10.13-09.56.56.-552
-ord9,client_009,Rose,1,Fill,250,50,Accepted,2024.10.13-09.56.56.-552
-ord11,client_011,Orchid,1,New,1000,53,Accepted,2024.10.13-09.56.56.-552
-ord12,client_012,Orchid,2,Fill,1000,53,Accepted,2024.10.13-09.56.56.-552
-ord11,client_011,Orchid,1,Fill,1000,53,Accepted,2024.10.13-09.56.56.-552
-ord13,client_013,Tulip,1,Fill,300,55,Accepted,2024.10.13-09.56.56.-552
-ord8,client_008,Tulip,2,Fill,300,55,Accepted,2024.10.13-09.56.56.-552
-ord14,client_014,Rose,3,Reject,300,50,Invalid Side,2024.10.13-09.56.56.-552
-ord15,client_015,Tulip,1,New,350,55,Accepted,2024.10.13-09.56.56.-552
-ord16,client_016,Rose,2,Reject,25,50,Invalid Size,2024.10.13-09.56.56.-552
-ord17,client_017,Rose,2,New,100,49,Accepted,2024.10.13-09.56.56.-552
+ord1,client_001,Rose,1,New,100,50,Accepted,2024.10.14-17.04.37.-94
+ord2,client_002,Lavender,2,New,100,51,Accepted,2024.10.14-17.04.37.-94
+ord3,client_003,Rose,1,New,200,50,Accepted,2024.10.14-17.04.37.-94
+ord4,client_004,Rose,2,PFill,100,50,Accepted,2024.10.14-17.04.37.-94
+ord1,client_001,Rose,1,Fill,100,50,Accepted,2024.10.14-17.04.37.-94
+ord4,client_004,Rose,2,Fill,100,50,Accepted,2024.10.14-17.04.37.-94
+ord3,client_003,Rose,1,PFill,100,50,Accepted,2024.10.14-17.04.37.-94
+ord5,client_005,Rose,2,Fill,100,50,Accepted,2024.10.14-17.04.37.-94
+ord3,client_003,Rose,1,Fill,100,50,Accepted,2024.10.14-17.04.37.-94
+ord6,client_006,Lotus,1,New,500,52,Accepted,2024.10.14-17.04.37.-94
+ord7,client_007,Lily,2,Reject,100,51.5,Invalid Instrument,2024.10.14-17.04.37.-94
+ord8,client_008,Tulip,2,New,300,55,Accepted,2024.10.14-17.04.37.-94
+ord9,client_009,Rose,1,New,250,50,Accepted,2024.10.14-17.04.37.-94
+ord10,client_010,Rose,2,Fill,250,50,Accepted,2024.10.14-17.04.37.-94
+ord9,client_009,Rose,1,Fill,250,50,Accepted,2024.10.14-17.04.37.-94
+ord11,client_011,Orchid,1,New,1000,53,Accepted,2024.10.14-17.04.37.-94
+ord12,client_012,Orchid,2,Fill,1000,53,Accepted,2024.10.14-17.04.37.-94
+ord11,client_011,Orchid,1,Fill,1000,53,Accepted,2024.10.14-17.04.37.-94
+ord13,client_013,Tulip,1,Fill,300,55,Accepted,2024.10.14-17.04.37.-94
+ord8,client_008,Tulip,2,Fill,300,55,Accepted,2024.10.14-17.04.37.-94
+ord14,client_014,Rose,3,Reject,300,50,Invalid Side,2024.10.14-17.04.37.-94
+ord15,client_015,Tulip,1,New,350,55,Accepted,2024.10.14-17.04.37.-94
+ord16,client_016,Rose,2,Reject,25,50,Invalid Size,2024.10.14-17.04.37.-94
+ord17,client_017,Rose,2,New,100,49,Accepted,2024.10.14-17.04.37.-94
