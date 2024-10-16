@@ -160,7 +160,7 @@ void ProcessOrders(const string& input_file_name) {
 
     // Additional Step: Cleanup the execution report
     std::string inputFile = "execution_report.csv";
-    std::string outputFile = "modified_execution_report.csv";
+    std::string outputFile = "execution_report_final.csv";
 
     // Step 1: Read the CSV
     std::vector<Row> rows = readCsv(inputFile);
