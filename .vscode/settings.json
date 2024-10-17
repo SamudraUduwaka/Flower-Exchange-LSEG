@@ -119,5 +119,8 @@
     "thread": "cpp",
     "typeinfo": "cpp",
     "variant": "cpp"
-  }
+  },
+  "cmake.options.statusBarVisibility": "visible",
+  "cmake.sourceDirectory": "C:/Users/Samudra/Downloads/Flower-Exchange-LSEG/Version 1",
+  "C_Cpp.default.compilerPath": "C:/msys64/mingw64/bin/gcc.exe"
 }
